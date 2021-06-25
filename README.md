@@ -1,4 +1,4 @@
-# Resume-Resume-CSS-Template
+# HTML-Resume-CSS-Template
 
 ## Usage
 

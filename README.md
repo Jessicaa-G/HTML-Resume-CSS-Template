@@ -1,8 +1,8 @@
-# Resume-CV-CSS-Template
+# Resume-Resume-CSS-Template
 
 ## Usage
 
-A static HTML CV template, including:
+A static HTML Resume template, including:
   * Name & Avatar
   * Navigation bar
   * Skill bar
